@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383779400054",
+    "firebase_url": "https://realtimedatabase-d197e.firebaseio.com",
+    "project_id": "realtimedatabase-d197e",
+    "storage_bucket": "realtimedatabase-d197e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383779400054:android:67eba45eeccc0cb647f257",
+        "android_client_info": {
+          "package_name": "com.shiddiqtect.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383779400054-ek0ka28er68ic09vkgpolp26dnkp5j6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shiddiqtect.realtimedatabase",
+            "certificate_hash": "40c5e998ed2895042e68b2947d8e55e00b243c23"
+          }
+        },
+        {
+          "client_id": "383779400054-nakipu49q6i9h96nub3ujume37q42vbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmDO7HKSXzz1keKqN0bH2fi1mDkJUYbUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383779400054-nakipu49q6i9h96nub3ujume37q42vbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
